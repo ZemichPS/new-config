@@ -1,0 +1,5 @@
+jwt:
+  key:
+  issuer: user-service
+  duration: 3
+  
